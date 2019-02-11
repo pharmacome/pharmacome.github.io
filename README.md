@@ -105,27 +105,50 @@ nicotoinic receptor biology, and proteostasis. They can be downloaded and handle
 
 ### Bio2BEL
 
+<img src="img/bio2bel-logo.png" alt="Bio2BEL Logo" height="45px" width="39px" style="float: left; margin: 5px" /> 
+BEL is well-suited as an biomedical knowledge integration standard as it has precise semantics and is extensible. We
+generated several reusable packages for converting and harmonizing databases across modes and scales in BEL.
+
+<img src="img/bio2bel-components.png" alt="Bio2BEL Components" width="424" height="118"/>
+
+#### References
+
 - Source Code: [https://github.com/bio2bel](https://github.com/bio2bel)
 
 ## Analytical Approaches
 
 ### Comparative Mechanism Enrichment
 
+We proposed an explanation for the cross-indication effects of Carbamazepine towards epilepsy and Alzheimer's disease
+by using the NeuroMMSig mechanism enrichment server to identify overlapping mechanisms with its experimentally measured 
+and computationally predicted targets.
+
 #### References
 
 - Publication: Hoyt, C. T. and Domingo-Fernández, D., *et al.* (2018). [A systematic approach for identifying shared mechanisms in epilepsy and its comorbidities](https://doi.org/10.1093/database/bay050). Database, 2018(1). 
 
-### Clustering with Network Representation Learning
+### Target Prioritization with Network Representation Learning
+
+We used GAT2VEC to generate random walk-based node embeddings for protein-protein interaction (PPI) networks annotated 
+with disease-specific differential gene expression profiles from GEO, ArrayExpress, and other sources. Following
+the prediction and evaluation pipeline from Emig, *et al.* (2013), we built simple generalized linear models using 
+annotations from OpenTargets as a training set and generated rankings for all targets.
 
 #### References
 
 - Publication: Muslu, Ö., Hoyt, C. T., Hofmann-Apitius, M., & Fröhlich, H. (2019). [GuiltyTargets: Prioritization of Novel Therapeutic Targets with Deep Network Representation Learning](https://doi.org/10.1101/521161). BioRxiv, 1–14. 
+- See Also: Emig, D., *et al.* (2013). [Drug Target Prediction and Repositioning Using an Integrated Network-Based Approach](https://doi.org/10.1371/journal.pone.0060618). PLoS ONE, 8(4).
 - Source Code: [https://github.com/guiltytargets](https://github.com/guiltytargets)
 
 ### Link Prediction with Network Representation Learning
 
+We generated two network representation learning (NRL) libraries: [one](https://github.com/cthoyt/nrl) for random 
+walk-based NRL and [another](https://github.com/smartDataAnalytics/pykeen) for semantic translations models and
+neural network models.
+
 #### References
 
 - Publication: Ali, M., Hoyt, C. T., Domingo-Fernández, D., Lehmann, J., & Jabeen, H. (2018). [BioKEEN: A library for learning and evaluating biological knowledge graph embeddings](https://doi.org/10.1101/475202), 1–5. 
+- Source Code (NRL): [https://github.com/cthoyt/nrl](https://github.com/cthoyt/nrl)
 - Source Code (PyKEEN): [https://github.com/smartDataAnalytics/pykeen](https://github.com/smartDataAnalytics/pykeen)
 - Source Code (BioKEEN): [https://github.com/smartDataAnalytics/biokeen](https://github.com/smartDataAnalytics/biokeen)
