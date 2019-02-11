@@ -13,7 +13,9 @@ We heavily rely on Biological Expression Language (BEL) as a format for storing 
 - Publication: Slater, T. (2014). [Recent advances in modeling languages for pathway maps and computable biological networks](https://doi.org/10.1016/j.drudis.2013.12.011). Drug Discovery Today, 19(2), 193–198. 
 - BEL Enhancement Proposals: [https://github.com/belbio/bep](https://github.com/belbio/bep)
 
-### ![PyBEL Logo](img/pybel-logo.png){:height="45px" width="45px"} PyBEL
+### PyBEL
+
+<img src="img/pybel-logo.png" alt="PyBEL Logo" height="45px" width="45px" style="float: left" />
 
 We built PyBEL for parsing, validating, compiling, and converting networks encoded in BEL.
 
@@ -25,7 +27,7 @@ We built PyBEL for parsing, validating, compiling, and converting networks encod
 
 ### BEL Commons
 
-![BEL Commons Logo](img/bel-commons-logo.png){:height="45px" width="45px"}
+<img src="img/bel-commons-logo.png" alt="BEL Commons Logo" height="45px" width="45px" style="float: left" />
 
 BEL Commons is an environment for curating, validating, and exploring knowledge assemblies encoded in BEL to support 
 elucidating disease-specific, mechanistic insight.
