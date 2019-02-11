@@ -1,4 +1,6 @@
-## Knowledge Storate, Manipulation, and Exploration
+# The Human Brain Pharmacome Project
+
+## Knowledge Storage, Manipulation, and Exploration
 
 One of the first goals of the Human Brain Pharmacome Project is to bring order
 to the unstructured knowledge locked in the biomedical literature, patents,
@@ -6,7 +8,10 @@ and electronic health records.
 
 ### Storing Knowledge: Biological Expression Language
 
-We heavily rely on Biological Expression Language (BEL) as a format for storing qualitative causal and correlative relations between biological entities across multiple modes and scales, with full provenance information including name- space references, relation provenance (citation and evidence), and biological context-specific relation metadata (anatomy, cell, disease etc.)
+We heavily rely on Biological Expression Language (BEL) as a format for storing qualitative causal and correlative 
+relations between biological entities across multiple modes and scales, with full provenance information including 
+namespace references, relation provenance (citation and evidence), and biological context-specific relation metadata 
+(anatomy, cell, disease etc.)
 
 #### References
 
@@ -15,7 +20,10 @@ We heavily rely on Biological Expression Language (BEL) as a format for storing 
 
 ### Manipulating Knowledge: PyBEL
 
-<img src="img/pybel-logo.png" alt="PyBEL Logo" height="45px" width="45px" style="float: left; margin: 15px" /> We built PyBEL for parsing, validating, compiling, and converting networks encoded in BEL.
+<img src="img/pybel-logo.png" alt="PyBEL Logo" height="45px" width="45px" style="float: left; margin: 5px" /> We built 
+PyBEL for parsing, validating, compiling, and converting networks encoded in BEL. PyBEL comprises five main components:
+(i) network data container, (ii) parser and validator, (iii) network database manager, (iv) data converter and (v) 
+network visualizer.
 
 #### References
 
@@ -25,8 +33,11 @@ We heavily rely on Biological Expression Language (BEL) as a format for storing 
 
 ### Exploring Knowledge: BEL Commons
 
-<img src="img/bel-commons-logo.png" alt="BEL Commons Logo" height="45px" width="45px" style="float: left; margin: 15px" /> BEL Commons is an environment for curating, validating, and exploring knowledge assemblies encoded in BEL to support 
-elucidating disease-specific, mechanistic insight.
+<img src="img/bel-commons-logo.png" alt="BEL Commons Logo" height="45px" width="45px" style="float: left; margin: 5px" /> 
+BEL Commons is an environment for curating, validating, and exploring knowledge assemblies encoded in BEL to support 
+elucidating disease-specific, mechanistic insight. BEL Commons comprises five components: (i) the network uploader and 
+validator, (ii) user rights and project management, (iii) the query builder, (iv) the biological network explorer and 
+(iv) the analytical service.
 
 <img src="img/bel-commons-components.png" alt="BEL Commons Components" width="424" height="283"/>
 
@@ -39,6 +50,10 @@ elucidating disease-specific, mechanistic insight.
 ## Knowledge Acquisition, Transformation, and Curation
 
 ### BEL Curation Workflow
+
+We developed a workflow using [git](https://git-scm.com), [GitHub](https://github.com), PyBEL, and a novel [PyBEL
+extension](https://github.com/pybel/pybel-git) in order to identify and address syntactical issues in BEL documents 
+in a Continuous Integration setting.
 
 <img src="img/curation-workflow.png" alt="Curation Workflow" width="424" height="424"/>
 
