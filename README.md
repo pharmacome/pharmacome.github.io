@@ -47,7 +47,7 @@ validator, (ii) user rights and project management, (iii) the query builder, (iv
 - Web application: [https://bel-commmons.scai.fraunhofer.de](https://bel-commmons.scai.fraunhofer.de)
 - Source Code: [https://github.com/bel-commons](https://github.com/bel-commons)
 
-## Knowledge Acquisition, Transformation, and Curation
+## Curation of Unstructured Knowledge
 
 ### BEL Curation Workflow
 
@@ -103,6 +103,8 @@ nicotoinic receptor biology, and proteostasis. They can be downloaded and handle
 
 - Results: [https://github.com/pharmacome/knowledge](https://github.com/pharmacome/knowledge])
 
+## Acquisition and Transformation of of Unstructured Knowledge
+
 ### Bio2BEL
 
 <img src="img/bio2bel-logo.png" alt="Bio2BEL Logo" height="39px" width="45px" style="float: left; margin: 5px" /> 
@@ -114,6 +116,29 @@ generated several reusable packages for converting and harmonizing databases acr
 #### References
 
 - Source Code: [https://github.com/bio2bel](https://github.com/bio2bel)
+
+### ComPath
+
+We curated mappings between three major pathway databases (KEGG, Reactome, and WikiPathways) and MSigDB to identify
+their overlapping entries.
+
+#### References
+
+- Publication: Domingo-Fernandez, D., *et al*. (2018). [ComPath: an ecosystem for exploring, analyzing, and curating mappings across pathway databases](https://doi.org/10.1038/s41540-018-0078-8). Npj Systems Biology and Applications, 5(1), 3.
+- Web Application: [https://compath.scai.fraunhofer.de](https://compath.scai.fraunhofer.de)
+- Source Code: [https://github.com/ComPath/ComPath](https://github.com/ComPath/ComPath)
+
+### PathMe
+
+We harmonized and extracted pathway knowledge from three major pathway databases: KEGG, Reactome, and WikiPathways
+in order to make comparisons about their coverage and to generate consensus pathways (by using ComPath) for downstream
+applications, such as with Signalling Pathway Impact Analysis (SPIA). 
+
+#### References
+
+- Publication: Domingo-Fernandez, D., *et al.* (2018). [PathMe: Merging and exploring mechanistic pathway knowledge](http://biorxiv.org/content/early/2018/10/24/451625.abstract). bioRxiv, 451625.
+- Web Application: [https://pathme.scai.fraunhofer.de](https://pathme.scai.fraunhofer.de)
+- Source Code: [https://github.com/pathwaymerger/pathme](https://github.com/pathwaymerger/pathme)
 
 ## Analytical Approaches
 
