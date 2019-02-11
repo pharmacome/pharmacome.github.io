@@ -2,7 +2,18 @@
 
 ### PyBEL
 
-![PyBEL Logo](img/pybel-logo.png)
+1
+<img src="img/pybel-logo.png" alt="PyBEL Logo" width="250" height="250"/>
+
+2
+![PyBEL Logo](img/pybel-logo.png =)
+
+3
+![PyBEL Logo](img/pybel-logo.png){:height="200px" width="200px"}
+
+4
+![PyBEL Logo](img/pybel-logo.png {width=200px height=200px})
+
 
 PyBEL is a pure Python package for parsing, validating, compiling, and converting networks encoded in Biological 
 Expression Language (BEL).
@@ -15,12 +26,12 @@ Expression Language (BEL).
 
 ### BEL Commons
 
-![BEL Commons Logo](img/bel-commons-logo.png)
+<img src="img/bel-commons-logo.png" alt="BEL Commons Logo" width="205" height="190"/>
 
 BEL Commons is an environment for curating, validating, and exploring knowledge assemblies encoded in BEL to support 
 elucidating disease-specific, mechanistic insight.
 
-![BEL Commons Components](img/bel-commons-components.png)
+<img src="img/bel-commons-components.png" alt="BEL Commons Components" width="296" height="198"/>
 
 #### References
 
@@ -49,7 +60,7 @@ a novel mechanism enrichment algorithm.
 
 ### BEL Curation Workflow
 
-![Curation Workflow](img/curation-workflow.png)
+<img src="img/curation-workflow.png" alt="Curation Workflow" width="300" height="3009"/>
 
 - Zenodo Reference: Hoyt, C. T. (2018, December 22). pybel/pybel-git v0.0.2 (Version v0.0.2). Zenodo. http://doi.org/10.5281/zenodo.2508180
 - Source Code: https://github.com/pybel/pybel-git
@@ -64,7 +75,7 @@ a novel mechanism enrichment algorithm.
 
 ### Rational Enrichment
 
-![Enrichment Workflow](img/enrichment-workflow.png)
+<img src="img/enrichment-workflow.png" alt="Enrichment Workflow" width="300" height="300"/>
 
 #### Mechanism Enrichment Server References
 
