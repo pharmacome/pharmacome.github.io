@@ -39,7 +39,7 @@ elucidating disease-specific, mechanistic insight. BEL Commons comprises five co
 validator, (ii) user rights and project management, (iii) the query builder, (iv) the biological network explorer and 
 (iv) the analytical service.
 
-<img src="img/bel-commons-components.png" alt="BEL Commons Components" width="424" height="283"/>
+<img src="img/bel-commons-components.png" alt="BEL Commons Components" width="610" height="407"/>
 
 #### References
 
@@ -55,7 +55,7 @@ We developed a workflow using [git](https://git-scm.com), [GitHub](https://githu
 extension](https://github.com/pybel/pybel-git) in order to identify and address syntactical issues in BEL documents 
 in a Continuous Integration setting.
 
-<img src="img/curation-workflow.png" alt="Curation Workflow" width="424" height="424"/>
+<img src="img/curation-workflow.png" alt="Curation Workflow" width="610" height="496"/>
 
 - [Zenodo Reference](http://doi.org/10.5281/zenodo.2508180): Hoyt, C. T. (2018, December 22). pybel/pybel-git v0.0.2 (Version v0.0.2). Zenodo. http://doi.org/10.5281/zenodo.2508180
 - Source Code: [https://github.com/pybel/pybel-git](https://github.com/pybel/pybel-git)
@@ -87,7 +87,7 @@ a novel mechanism enrichment algorithm.
 
 ### Rational Enrichment of NeuroMMSig
 
-<img src="img/enrichment-workflow.png" alt="Enrichment Workflow" width="424" height="424"/>
+<img src="img/enrichment-workflow.png" alt="Enrichment Workflow" width="610" height="499"/>
 
 #### Mechanism Enrichment Server References
 
@@ -105,11 +105,11 @@ nicotoinic receptor biology, and proteostasis. They can be downloaded and handle
 
 ### Bio2BEL
 
-<img src="img/bio2bel-logo.png" alt="Bio2BEL Logo" height="45px" width="39px" style="float: left; margin: 5px" /> 
+<img src="img/bio2bel-logo.png" alt="Bio2BEL Logo" height="39px" width="45px" style="float: left; margin: 5px" /> 
 BEL is well-suited as an biomedical knowledge integration standard as it has precise semantics and is extensible. We
 generated several reusable packages for converting and harmonizing databases across modes and scales in BEL.
 
-<img src="img/bio2bel-components.png" alt="Bio2BEL Components" width="424" height="118"/>
+<img src="img/bio2bel-components.png" alt="Bio2BEL Components" width="610" height="170"/>
 
 #### References
 
