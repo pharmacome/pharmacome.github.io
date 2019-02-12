@@ -68,6 +68,7 @@ ability to generate BEL namespace files, OBO files, and OWL files.
 
 ### NeuroMMSig
 
+<img src="img/neurommsig-logo.png" alt="NeuroMMSig Logo" height="45px" width="45px" style="float: left; margin: 5px" />
 Multimodal mechanistic signatures for neurodegenerative diseases (NeuroMMSig) consists of three parts: a taxonomy
 of candidate pathophysiological mechanisms in three neurodegenerative diseases (i.e., Alzheimer's disease, Parkinson's 
 disease, and epilepsy), disease-specific mechanistic models of each, and a web server implementing
@@ -117,6 +118,7 @@ generated several reusable packages for converting and harmonizing databases acr
 
 ### ComPath
 
+<img src="img/compath-logo.png" alt="ComPath Logo" height="45px" width="45px" style="float: left; margin: 5px" /> 
 We curated mappings between three major pathway databases (KEGG, Reactome, and WikiPathways) and MSigDB to identify
 their overlapping entries.
 
@@ -128,6 +130,7 @@ their overlapping entries.
 
 ### PathMe
 
+<img src="img/pathme-logo.png" alt="PathMe Logo" height="45px" width="45px" style="float: left; margin: 5px" />
 We harmonized and extracted pathway knowledge from three major pathway databases: KEGG, Reactome, and WikiPathways
 in order to make comparisons about their coverage and to generate consensus pathways (by using ComPath) for downstream
 applications, such as with Signalling Pathway Impact Analysis (SPIA). 
