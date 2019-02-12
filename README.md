@@ -102,6 +102,11 @@ nicotoinic receptor biology, and proteostasis. They can be downloaded and handle
 
 - Results: [https://github.com/pharmacome/knowledge](https://github.com/pharmacome/knowledge])
 
+### TauBase
+
+We've generated a dynamic web application for exploring the content curated during this project that can be found
+at [https://github.com/pharmacome/taubase](https://github.com/pharmacome/taubase]). It will be deployed publicly soon.
+
 ## Acquisition and Transformation of of Unstructured Knowledge
 
 ### Bio2BEL
