@@ -1,12 +1,3 @@
-# The Human Brain Pharmacome Project
-
-The Human Brain Pharmacome project is aimed at developing mechanism-based chemoinformatics approaches to identify
-drug repositioning candidates for dementia. 
-
-We're funded by the Fraunhofer MAVO grant as a joint undertaking between 
-[Fraunhofer SCAI](https://www.scai.fraunhofer.de/), [Fraunhofer IAIS](https://www.iais.fraunhofer.de), 
-and [Fraunhofer IME](https://www.ime.fraunhofer.de/). Also, see our [blog](https://pharmacome.scai.fraunhofer.de/).
-
 ## Knowledge Storage, Manipulation, and Exploration
 
 One of the first goals of the Human Brain Pharmacome Project is to bring order
@@ -184,3 +175,9 @@ neural network models.
 - Source Code (NRL): [https://github.com/cthoyt/nrl](https://github.com/cthoyt/nrl)
 - Source Code (PyKEEN): [https://github.com/smartDataAnalytics/pykeen](https://github.com/smartDataAnalytics/pykeen)
 - Source Code (BioKEEN): [https://github.com/smartDataAnalytics/biokeen](https://github.com/smartDataAnalytics/biokeen)
+
+## Funding
+
+We're funded by the Fraunhofer Society's MAVO program as a joint undertaking between 
+[Fraunhofer SCAI](https://www.scai.fraunhofer.de/), [Fraunhofer IAIS](https://www.iais.fraunhofer.de), 
+and [Fraunhofer IME](https://www.ime.fraunhofer.de/). Also, see our [blog](https://pharmacome.scai.fraunhofer.de/).
