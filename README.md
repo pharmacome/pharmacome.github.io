@@ -77,7 +77,8 @@ a novel mechanism enrichment algorithm.
 #### Disease Mechanism Inventory References
 
 - Terminology: [https://github.com/neurommsig/neurommsig-terminology](https://github.com/neurommsig/neurommsig-terminology)
-- Disease Mechanisms: [https://github.com/neurommsig/neurommsig-knowledge](https://github.com/neurommsig/neurommsig-knowledge)
+- Disease Mechanism Source: [https://github.com/neurommsig/neurommsig-knowledge](https://github.com/neurommsig/neurommsig-knowledge)
+- Disease Mechanism Summary: [https://neurommsig.github.io/neurommsig-knowledge](https://neurommsig.github.io/neurommsig-knowledge)
 
 #### Mechanism Enrichment Server References
 
@@ -88,11 +89,12 @@ a novel mechanism enrichment algorithm.
 
 <img src="img/enrichment-workflow.png" alt="Enrichment Workflow"/>
 
-#### Mechanism Enrichment Server References
+#### References
 
 - Publication: Hoyt, C. T., *et al* (2019). [Re-curation and Rational Enrichment of Knowledge Graphs in Biological Expression Language](https://doi.org/10.1101/536409). BioRxiv, 536409. 
 - Source Code: [https://github.com/bel-enrichment/bel-enrichment](https://github.com/bel-enrichment/bel-enrichment)
 - Results: [https://github.com/bel-enrichment/results](https://github.com/bel-enrichment/results)
+- Summary of Results: [https://bel-enrichment.github.io/results](https://bel-enrichment.github.io/results/)
 
 ### Topic-Specific Manual Curation
 
@@ -101,6 +103,7 @@ nicotoinic receptor biology, and proteostasis. They can be downloaded and handle
  the link below.
 
 - Results: [https://github.com/pharmacome/knowledge](https://github.com/pharmacome/knowledge])
+- Summary of Results: [https://pharmacome.github.io/knowledge](https://pharmacome.github.io/knowledge)
 
 ### TauBase
 
