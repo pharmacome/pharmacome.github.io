@@ -51,7 +51,7 @@ Hoyt, C. T., Domingo-Fernández, D., & Hofmann-Apitius, M. (2018). [BEL Commons:
 
 #### Resources
 
-- Web Application: [https://bel-commmons.scai.fraunhofer.de](https://bel-commmons.scai.fraunhofer.de)
+- Web Application: [https://bel-commons.scai.fraunhofer.de](https://bel-commons.scai.fraunhofer.de)
 - [Code](https://github.com/bel-commons)
 
 ## Curation of Unstructured Knowledge
@@ -121,7 +121,7 @@ Language](https://doi.org/10.1101/536409). BioRxiv, 536409.
 - [Data](https://github.com/bel-enrichment/results)
 - [Code](https://github.com/bel-enrichment/bel-enrichment)
 
-### Topic-Specific Manual Curation
+### Full-Text Manual Curation
 
 We have prioritized manual curation of the highest granularity for new content related to the human Tau protein, 
 nicotoinic receptor biology, and proteostasis. They can be downloaded and handled with PyBEL (or other BEL tools) using
@@ -131,6 +131,16 @@ nicotoinic receptor biology, and proteostasis. They can be downloaded and handle
 
 - [Summary](https://pharmacome.github.io/knowledge)
 - [Data](https://github.com/pharmacome/knowledge])
+
+### Semi-Automated Curation
+
+We used the tooling developed for the rational enrichment workflow to support topic-specific, semi-automated 
+curation. So far, it has been applied to the MAPT and GSK3B proteins.
+
+#### Resources
+
+- [Summary](https://pharmacome.github.io/semi-automated-curation)
+- [Data](https://github.com/pharmacome/semi-automated-curation)
 
 ### TauBase
 
