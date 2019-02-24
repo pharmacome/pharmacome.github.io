@@ -73,10 +73,11 @@ in a Continuous Integration setting.
 
 While there are several useful public terminologies useful for curation of biomedical relations, there is often the 
 need to develop new controlled vocabularies, thesauri, taxonomies, and ontologies. We have maintained ours with the
-ability to generate BEL namespace files, OBO files, and OWL files.
+ability to export it as OBO, OWL, and as a BEL namespace.
 
 #### Resources
 
+- [Summary](https://pharmacome.github.io/terminology)
 - [Data](https://github.com/pharmacome/terminology)
 
 ### NeuroMMSig
