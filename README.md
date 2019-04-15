@@ -1,3 +1,7 @@
+# The Human Brain Pharmacome Project
+
+This page outlines the resources generated for the Human Brain Pharmacome project.
+
 ## Knowledge Storage, Manipulation, and Exploration
 
 One of the first goals of the Human Brain Pharmacome Project is to bring order
@@ -131,7 +135,7 @@ nicotoinic receptor biology, and proteostasis. They can be downloaded and handle
 #### Resources
 
 - [Summary](https://pharmacome.github.io/knowledge)
-- [Data](https://github.com/pharmacome/knowledge])
+- [Data](https://github.com/pharmacome/knowledge)
 
 ### Semi-Automated Curation
 
