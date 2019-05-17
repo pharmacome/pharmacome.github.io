@@ -17,7 +17,7 @@ namespace references, relation provenance (citation and evidence), and biologica
 
 #### Reference
 
-Slater, T. (2014). [Recent advances in modeling languages for pathway maps and computable biological networks](https://doi.org/10.1016/j.drudis.2013.12.011). Drug Discovery Today, 19(2), 193–198. 
+Slater, T. (2014). [Recent advances in modeling languages for pathway maps and computable biological networks](https://doi.org/10.1016/j.drudis.2013.12.011). *Drug Discovery Today*, 19(2), 193–198. 
 
 #### Resources
 
@@ -32,7 +32,7 @@ network visualizer.
 
 #### Reference
 
-Hoyt, C. T., Konotopez, A., Ebeling, C. (2018). [PyBEL: a computational framework for Biological Expression Language](https://doi.org/10.1093/bioinformatics/btx660). Bioinformatics (Oxford, England), 34(4), 703–704. 
+Hoyt, C. T., Konotopez, A., Ebeling, C. (2018). [PyBEL: a computational framework for Biological Expression Language](https://doi.org/10.1093/bioinformatics/btx660). *Bioinformatics*, 34(4), 703–704. 
 
 #### Resources
 
@@ -51,7 +51,7 @@ validator, (ii) user rights and project management, (iii) the query builder, (iv
 
 #### Reference
 
-Hoyt, C. T., Domingo-Fernández, D., & Hofmann-Apitius, M. (2018). [BEL Commons: an environment for exploration and analysis of networks encoded in Biological Expression Language](https://doi.org/10.1093/database/bay126). Database, 2018(3), 1–11.
+Hoyt, C. T., Domingo-Fernández, D., & Hofmann-Apitius, M. (2018). [BEL Commons: an environment for exploration and analysis of networks encoded in Biological Expression Language](https://doi.org/10.1093/database/bay126). *Database*, 2018(3), 1–11.
 
 #### Resources
 
@@ -105,7 +105,7 @@ a novel mechanism enrichment algorithm.
 
 Domingo-Fernández, D., *et al.* (2017). [Multimodal mechanistic signatures for neurodegenerative 
 diseases (NeuroMMSig): A web server for mechanism enrichment](https://doi.org/10.1093/bioinformatics/btx399). 
-Bioinformatics, 33(22), 3679–3681. 
+*Bioinformatics*, 33(22), 3679–3681. 
 
 #### Mechanism Enrichment Server Resources
 
@@ -118,7 +118,7 @@ Bioinformatics, 33(22), 3679–3681.
 #### Reference
 
 Hoyt, C. T., *et al* (2019). [Re-curation and Rational Enrichment of Knowledge Graphs in Biological Expression 
-Language](https://doi.org/10.1101/536409). BioRxiv, 536409. 
+Language](https://doi.org/10.1101/536409). *bioRxiv*, 536409. 
 
 #### Resources
 
@@ -162,6 +162,10 @@ generated several reusable packages for converting and harmonizing databases acr
 
 <img src="img/bio2bel-components.png" alt="Bio2BEL Components"/>
 
+#### Reference
+
+Hoyt, C. T., *et al.* (2019). [Integration of Structured Biological Data Sources using Biological Expression Language](https://doi.org/10.1101/631812). *bioRxiv*, 631812. 
+
 #### Resources
 
 - [Code](https://github.com/bio2bel)
@@ -175,7 +179,7 @@ their overlapping entries.
 #### Reference
 
 Domingo-Fernandez, D., *et al*. (2018). [ComPath: an ecosystem for exploring, analyzing, and curating mappings across 
-pathway databases](https://doi.org/10.1038/s41540-018-0078-8). Npj Systems Biology and Applications, 5(1), 3.
+pathway databases](https://doi.org/10.1038/s41540-018-0078-8). *Npj Systems Biology and Applications*, 5(1), 3.
 
 #### Resources
 
@@ -191,8 +195,7 @@ applications, such as with Signalling Pathway Impact Analysis (SPIA).
 
 #### Reference
 
-Domingo-Fernandez, D., *et al.* (2018). [PathMe: Merging and exploring mechanistic pathway
-knowledge](http://biorxiv.org/content/early/2018/10/24/451625.abstract). bioRxiv, 451625.
+Domingo-Fernandez, D., *et al.* (2018). [PathMe: Merging and exploring mechanistic pathway knowledge](https://doi.org/10.1186/s12859-019-2863-9). *BMC Bioinformatics*, 20:243.
 
 #### Resources
 
@@ -210,7 +213,7 @@ and computationally predicted targets.
 #### Reference
 
 Hoyt, C. T. and Domingo-Fernández, D., *et al.* (2018). [A systematic approach for identifying shared mechanisms in 
-epilepsy and its comorbidities](https://doi.org/10.1093/database/bay050). Database, 2018(1). 
+epilepsy and its comorbidities](https://doi.org/10.1093/database/bay050). *Database*, 2018(1). 
 
 ### Target Prioritization with Network Representation Learning
 
@@ -223,7 +226,7 @@ all targets.
 #### References
 
 Muslu, Ö., Hoyt, C. T., Hofmann-Apitius, M., & Fröhlich, H. (2019). [GuiltyTargets: Prioritization of Novel 
-Therapeutic Targets with Deep Network Representation Learning](https://doi.org/10.1101/521161). BioRxiv, 1–14. 
+Therapeutic Targets with Deep Network Representation Learning](https://doi.org/10.1101/521161). *bioRxiv*, 1–14. 
 
 #### Resources
 
@@ -237,8 +240,8 @@ neural network models.
 
 #### Reference
 
-Ali, M., Hoyt, C. T., Domingo-Fernández, D., Lehmann, J., & Jabeen, H. (2018). [BioKEEN: A library for learning and 
-evaluating biological knowledge graph embeddings](https://doi.org/10.1101/475202), 1–5. 
+Ali, M., Hoyt, C. T., Domingo-Fernández, D., Lehmann, J., & Jabeen, H. (2019). [BioKEEN: A library for learning and evaluating biological knowledge graph embeddings](https://doi.org/10.1093/bioinformatics/btz117). *Bioinformatics*, btz117. 
+
 
 #### Resources
 
