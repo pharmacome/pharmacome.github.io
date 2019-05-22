@@ -15,6 +15,8 @@ relations between biological entities across multiple modes and scales, with ful
 namespace references, relation provenance (citation and evidence), and biological context-specific relation metadata 
 (anatomy, cell, disease etc.)
 
+<img src="img/bel-relation.png" alt="EpiCom Workflow"/>
+
 #### Reference
 
 Slater, T. (2014). [Recent advances in modeling languages for pathway maps and computable biological networks](https://doi.org/10.1016/j.drudis.2013.12.011). *Drug Discovery Today*, 19(2), 193–198. 
@@ -152,7 +154,7 @@ curation. So far, it has been applied to the MAPT and GSK3B proteins.
 We've generated a dynamic web application for exploring the content curated during this project that can be found
 at [https://github.com/pharmacome/taubase](https://github.com/pharmacome/taubase]). It will be deployed publicly soon.
 
-## Acquisition and Transformation of of Unstructured Knowledge
+## Acquisition and Transformation of Structured Knowledge
 
 ### Bio2BEL
 
@@ -252,7 +254,6 @@ neural network models.
 #### Reference
 
 Ali, M., Hoyt, C. T., Domingo-Fernández, D., Lehmann, J., & Jabeen, H. (2019). [BioKEEN: A library for learning and evaluating biological knowledge graph embeddings](https://doi.org/10.1093/bioinformatics/btz117). *Bioinformatics*, btz117. 
-
 
 #### Resources
 
