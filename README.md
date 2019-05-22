@@ -210,6 +210,8 @@ We proposed an explanation for the cross-indication effects of Carbamazepine tow
 by using the NeuroMMSig mechanism enrichment server to identify overlapping mechanisms with its experimentally measured 
 and computationally predicted targets.
 
+<img src="img/epicom-workflow.png" alt="EpiCom Workflow"/>
+
 #### Reference
 
 Hoyt, C. T. and Domingo-Fernández, D., *et al.* (2018). [A systematic approach for identifying shared mechanisms in 
