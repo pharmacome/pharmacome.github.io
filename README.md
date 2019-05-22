@@ -202,6 +202,15 @@ Domingo-Fernandez, D., *et al.* (2018). [PathMe: Merging and exploring mechanist
 - Web Application: [https://pathme.scai.fraunhofer.de](https://pathme.scai.fraunhofer.de)
 - [Code](https://github.com/pathwaymerger/pathme)
 
+### PathwayForte
+
+We generated super-pathways using ComPath and PathMe in order to benchmark several pathway-based functional
+enrichment and prediction methods.
+
+#### Resources
+
+- [Code](https://github.com/pathwayforte)
+
 ## Analytical Approaches
 
 ### Comparative Mechanism Enrichment
