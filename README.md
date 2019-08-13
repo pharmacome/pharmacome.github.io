@@ -183,7 +183,7 @@ their overlapping entries.
 #### Reference
 
 Domingo-Fernandez, D., *et al*. (2018). [ComPath: an ecosystem for exploring, analyzing, and curating mappings across 
-pathway databases](https://doi.org/10.1038/s41540-018-0078-8). *Npj Systems Biology and Applications*, 5(1), 3.
+pathway databases](https://doi.org/10.1038/s41540-018-0078-8). *Npj Systems Biology and Applications*, 4:43.
 
 #### Resources
 
