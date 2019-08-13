@@ -215,6 +215,10 @@ enrichment and prediction methods.
 
 <img src="img/pathwayforte.jpg" alt="Building a consensus dataset using ComPath and PathMe"/>
 
+#### Reference
+
+Mubeen, S., *et al.* (2019). [The Impact of Pathway Database Choice on Statistical Enrichment Analysis and Predictive Modeling](https://doi.org/10.1101/654442). *bioRxiv*, 654442. 
+
 #### Resources
 
 - [Code](https://github.com/pathwayforte)
