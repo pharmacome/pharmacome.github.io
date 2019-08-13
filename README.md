@@ -178,6 +178,8 @@ Hoyt, C. T., *et al.* (2019). [Integration of Structured Biological Data Sources
 We curated mappings between three major pathway databases (KEGG, Reactome, and WikiPathways) and MSigDB to identify
 their overlapping entries.
 
+<img src="img/compath_venn.png" alt="Equivalent pathways across three major resources"/>
+
 #### Reference
 
 Domingo-Fernandez, D., *et al*. (2018). [ComPath: an ecosystem for exploring, analyzing, and curating mappings across 
@@ -195,6 +197,8 @@ We harmonized and extracted pathway knowledge from three major pathway databases
 in order to make comparisons about their coverage and to generate consensus pathways (by using ComPath) for downstream
 applications, such as with Signalling Pathway Impact Analysis (SPIA). 
 
+<img src="img/pathme.jpg" alt="PathMe harmonization workflow"/>
+
 #### Reference
 
 Domingo-Fernandez, D., *et al.* (2018). [PathMe: Merging and exploring mechanistic pathway knowledge](https://doi.org/10.1186/s12859-019-2863-9). *BMC Bioinformatics*, 20:243.
@@ -208,6 +212,8 @@ Domingo-Fernandez, D., *et al.* (2018). [PathMe: Merging and exploring mechanist
 
 We generated super-pathways using ComPath and PathMe in order to benchmark several pathway-based functional
 enrichment and prediction methods.
+
+<img src="img/pathwayforte.jpg" alt="Building a consensus dataset using ComPath and PathMe"/>
 
 #### Resources
 
