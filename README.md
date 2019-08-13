@@ -86,6 +86,18 @@ ability to export it as OBO, OWL, and as a BEL namespace.
 - [Summary](https://pharmacome.github.io/terminology)
 - [Data](https://github.com/pharmacome/terminology)
 
+### Curation of Neurodegeneration in BEL (CONIB)
+
+We have prioritized manual curation of the highest granularity for new content related to several neurodegenerative
+disease, with special focus on the human Tau protein, nicotoinic receptor biology, and proteostasis. They can be
+downloaded and handled with PyBEL (or other BEL tools) using the link below.
+
+#### Resources
+
+- [Summary](https://pharmacome.github.io/conib)
+- [Data](https://github.com/pharmacome/conib)
+
+
 ### NeuroMMSig
 
 <img src="img/neurommsig-logo.png" alt="NeuroMMSig Logo" height="45px" width="45px" style="float: left; margin: 5px" />
@@ -128,18 +140,7 @@ Language](https://doi.org/10.1101/536409). *bioRxiv*, 536409.
 - [Data](https://github.com/bel-enrichment/results)
 - [Code](https://github.com/bel-enrichment/bel-enrichment)
 
-### Full-Text Manual Curation
-
-We have prioritized manual curation of the highest granularity for new content related to the human Tau protein, 
-nicotoinic receptor biology, and proteostasis. They can be downloaded and handled with PyBEL (or other BEL tools) using
- the link below.
-
-#### Resources
-
-- [Summary](https://pharmacome.github.io/knowledge)
-- [Data](https://github.com/pharmacome/knowledge)
-
-### Semi-Automated Curation
+### Topic-driven Semi-Automated Curation
 
 We used the tooling developed for the rational enrichment workflow to support topic-specific, semi-automated 
 curation. So far, it has been applied to the MAPT and GSK3B proteins.
@@ -270,6 +271,24 @@ Ali, M., Hoyt, C. T., Domingo-Fernández, D., Lehmann, J., & Jabeen, H. (2019). 
 - [Code (NRL)](https://github.com/cthoyt/nrl)
 - [Code (PyKEEN)](https://github.com/smartDataAnalytics/pykeen)
 - [Code (BioKEEN)](https://github.com/smartDataAnalytics/biokeen)
+
+### Side Effect Prediction with Network Representation Learning
+
+We generated node and edge embeddings for a graph of drugs, their chemical similarities, their side effects, their indications, their targets in order to predict side effects for new chemicals as well as to propose mechanisms of action for some side effects.
+
+#### Resources
+
+- [Code](https://github.com/aldisirana/SE_KGE)
+- *master's thesis in preparation*
+
+### Drug Repositioning with Network Representation Learning
+
+We replaced the engineered features used by [Himmelstein *et al.* (2017)](https://doi.org/10.7554/eLife.26726) with features learned by [node2vec](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf) on the [RepHetNet](https://het.io/repurpose/).
+
+#### Resources
+
+- [Code](https://github.com/lingling93/comparison)
+- *master's thesis in preparation*
 
 ## Funding
 
