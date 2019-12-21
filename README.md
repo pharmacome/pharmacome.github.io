@@ -132,7 +132,7 @@ diseases (NeuroMMSig): A web server for mechanism enrichment](https://doi.org/10
 #### Reference
 
 Hoyt, C. T., *et al* (2019). [Re-curation and Rational Enrichment of Knowledge Graphs in Biological Expression 
-Language](https://doi.org/10.1101/536409). *bioRxiv*, 536409. 
+Language](https://doi.org/10.1093/database/baz068). *Database*, 2019. 
 
 #### Resources
 
@@ -218,7 +218,7 @@ enrichment and prediction methods.
 
 #### Reference
 
-Mubeen, S., *et al.* (2019). [The Impact of Pathway Database Choice on Statistical Enrichment Analysis and Predictive Modeling](https://doi.org/10.1101/654442). *bioRxiv*, 654442. 
+Mubeen, S., *et al.* (2019). [The Impact of Pathway Database Choice on Statistical Enrichment Analysis and Predictive Modeling](https://doi.org/10.3389/fgene.2019.01203). *Frontiers in Genetics*, 10:1203. 
 
 #### Resources
 
