@@ -1,5 +1,6 @@
-# The Human Brain Pharmacome Project
-
+---
+layout: home
+---
 This page outlines the resources generated for the Human Brain Pharmacome project.
 
 ## Knowledge Storage, Manipulation, and Exploration
