@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 This page outlines the resources generated for the Human Brain Pharmacome project in 2018 and 2019.
 
