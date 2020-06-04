@@ -3,7 +3,7 @@ author: Charles Tapley Hoyt
 email: cthoyt@gmail.com
 description: Mechanism-based chemoinformatics and drug repositioning for dementia
 
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
   - jekyll-sitemap
