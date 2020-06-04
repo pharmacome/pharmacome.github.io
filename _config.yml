@@ -4,7 +4,3 @@ email: cthoyt@gmail.com
 description: Mechanism-based chemoinformatics and drug repositioning for dementia
 
 theme: jekyll-theme-architect
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
